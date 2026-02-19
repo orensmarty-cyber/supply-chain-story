@@ -156,8 +156,7 @@ git add .
 # Commit the files
 git commit -m "Initial commit: Supply Chain Data Story application"
 
-# Add your GitHub repository as remote (replace YOUR_USERNAME with your GitHub username)
-git remote add origin https://github.com/YOUR_USERNAME/supply-chain-story.git
+https://github.com/orensmarty-cyber/supply-chain-story.git
 
 # Push to GitHub
 git push -u origin main

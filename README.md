@@ -26,7 +26,7 @@ This application presents a data-driven narrative about supply chain networks, s
 
 ```bash
 # Clone the repository
-git clone https://github.com/ronalkobi/supply-chain-story.git
+git clone https://github.com/orensmarty-cyber/supply-chain-story.git
 
 # Navigate to project directory
 cd supply-chain-story
